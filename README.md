@@ -1,6 +1,6 @@
 # Project Work: "polar"
 
->The application was created as part of the course assignments for Ivan Petrychenko's " JavaScript + React Full Course"
+>The application was created as part of the course assignments for Ivan Petrychenko's " Web-Developer "
 
 ## The project can be viewed by following the [link]( https://polar.khudorenko.com/)
 
